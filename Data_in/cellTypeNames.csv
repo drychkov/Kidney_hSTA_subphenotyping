@@ -1,0 +1,14 @@
+Set_1,Set_2,Set_3,Set_4
+Erythrocytes,CD4+ T-cells,B-cells,Endothelial cells
+Megakaryocytes,CD4+ Tcm,naive B-cells,ly Endothelial cells
+Mast cells,CD4+ Tem,pro B-cells,mv Endothelial cells
+Macrophages,CD4+ memory T-cells,Memory B-cells,Epithelial cells
+Macrophages M1,CD4+ naive T-cells,Class-switched memory B-cells,Fibroblasts
+Macrophages M2,CD8+ T-cells,Plasma cells,Mesangial cells
+Monocytes,CD8+ Tcm,DC,HSC
+Platelets,CD8+ Tem,aDC,MSC
+Neutrophils,CD8+ naive T-cells,cDC,
+Eosinophils,Tgd cells,pDC,
+Basophils,Th1 cells,iDC,
+,Th2 cells,NK cells,
+,Tregs,NKT,
