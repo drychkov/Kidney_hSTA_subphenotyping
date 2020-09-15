@@ -1,1 +1,1 @@
-# Kidney_hSTA_suphenotyping
+# Kidney_hSTA_subphenotyping
